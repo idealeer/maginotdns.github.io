@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://maginotdns.github.io/zh/home/introduction/</loc>
+    <loc>https://maginotdns.github.io/zh/home/author/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://maginotdns.github.io/home/introduction/"
+                href="https://maginotdns.github.io/home/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://maginotdns.github.io/zh/home/introduction/"
+                href="https://maginotdns.github.io/zh/home/author/"
                 />
   </url><url>
     <loc>https://maginotdns.github.io/zh/home/publication/</loc>

@@ -5,7 +5,7 @@
     <link>https://maginotdns.github.io/tags/</link>
       <atom:link href="https://maginotdns.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 NISL Lab, Tsinghua University. All Rights Reserved.</copyright>
     <image>
       <url>https://maginotdns.github.io/media/icon_hua6c05f0c482061ef168fae8823b6b04c_506812_512x512_fill_lanczos_center_3.png</url>
       <title>Tags</title>

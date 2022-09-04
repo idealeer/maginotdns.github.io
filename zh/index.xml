@@ -5,7 +5,7 @@
     <link>https://maginotdns.github.io/zh/</link>
       <atom:link href="https://maginotdns.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
     <description>MaginotDNS</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2022 NISL Lab, Tsinghua University. All Rights Reserved.</copyright>
     <image>
       <url>https://maginotdns.github.io/media/icon_hua6c05f0c482061ef168fae8823b6b04c_506812_512x512_fill_lanczos_center_3.png</url>
       <title>MaginotDNS</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>介绍</title>
-      <link>https://maginotdns.github.io/zh/home/introduction/</link>
+      <link>https://maginotdns.github.io/zh/home/author/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://maginotdns.github.io/zh/home/introduction/</guid>
+      <guid>https://maginotdns.github.io/zh/home/author/</guid>
       <description></description>
     </item>
     
