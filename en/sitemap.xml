@@ -2,34 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://maginotdns.github.io/home/author/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://maginotdns.github.io/zh/home/author/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://maginotdns.github.io/home/author/"
-                />
-  </url><url>
-    <loc>https://maginotdns.github.io/zh/home/author/</loc>
-  </url><url>
-    <loc>https://maginotdns.github.io/home/publication/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://maginotdns.github.io/zh/home/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://maginotdns.github.io/home/publication/"
-                />
-  </url><url>
-    <loc>https://maginotdns.github.io/zh/home/publication/</loc>
-  </url><url>
     <loc>https://maginotdns.github.io/admin/</loc>
     <xhtml:link
                 rel="alternate"
@@ -54,18 +26,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://maginotdns.github.io/categories/"
-                />
-  </url><url>
-    <loc>https://maginotdns.github.io/home/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://maginotdns.github.io/zh/home/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://maginotdns.github.io/home/"
                 />
   </url><url>
     <loc>https://maginotdns.github.io/</loc>
