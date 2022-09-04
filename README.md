@@ -1,0 +1,2 @@
+# maginotdns.github.io
+maginotdns
