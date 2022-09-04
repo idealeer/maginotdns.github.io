@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types | 李想 | Xiang Li</title>
-    <link>https://idealeer.github.io/zh/publication_types/</link>
-      <atom:link href="https://idealeer.github.io/zh/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <title>Publication_types | MaginotDNS</title>
+    <link>https://maginotdns.github.io/zh/publication_types/</link>
+      <atom:link href="https://maginotdns.github.io/zh/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021-2021 Xiang Li</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
     <image>
-      <url>https://idealeer.github.io/media/icon_hua6c05f0c482061ef168fae8823b6b04c_506812_512x512_fill_lanczos_center_3.png</url>
+      <url>https://maginotdns.github.io/media/icon_hua6c05f0c482061ef168fae8823b6b04c_506812_512x512_fill_lanczos_center_3.png</url>
       <title>Publication_types</title>
-      <link>https://idealeer.github.io/zh/publication_types/</link>
+      <link>https://maginotdns.github.io/zh/publication_types/</link>
     </image>
     
   </channel>
