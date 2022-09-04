@@ -1,0 +1,18 @@
+{
+  "name": "李想 | Xiang Li",
+  "short_name": "李想 | Xiang Li",
+  "lang": "zh-Hans",
+  "theme_color": "hsl(339, 90%, 68%)",
+  "background_color": "hsl(339, 90%, 68%)",
+  "icons": [{
+    "src": "/media/icon_hua6c05f0c482061ef168fae8823b6b04c_506812_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/media/icon_hua6c05f0c482061ef168fae8823b6b04c_506812_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/zh/?utm_source=web_app_manifest"
+}

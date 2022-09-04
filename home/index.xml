@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes | Xiang Li | 李想</title>
+    <link>https://idealeer.github.io/home/</link>
+      <atom:link href="https://idealeer.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    <description>Homes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021-2021 Xiang Li</copyright>
+    <image>
+      <url>https://idealeer.github.io/media/icon_hua6c05f0c482061ef168fae8823b6b04c_506812_512x512_fill_lanczos_center_3.png</url>
+      <title>Homes</title>
+      <link>https://idealeer.github.io/home/</link>
+    </image>
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://idealeer.github.io/home/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://idealeer.github.io/home/introduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://idealeer.github.io/home/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://idealeer.github.io/home/publication/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://netsec.ccert.edu.cn/people/lx19&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Xiang Li&lt;/a&gt;, &lt;a href=&#34;https://netsec.ccert.edu.cn/eng/people/lcy17&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chaoyi Lu&lt;/a&gt;, &lt;a href=&#34;https://netsec.ccert.edu.cn/people/lbj20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Baojun Liu&lt;/a&gt;, &lt;a href=&#34;https://faculty.sites.uci.edu/zhouli/research/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Qifan Zhang&lt;/a&gt;, &lt;a href=&#34;https://faculty.sites.uci.edu/zhouli/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zhou Li&lt;/a&gt;, &lt;a href=&#34;https://netsec.ccert.edu.cn/people/duanhx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Haixin Duan&lt;/a&gt;, and &lt;a href=&#34;https://netsec.ccert.edu.cn/people/qli/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Qi Li&lt;/a&gt;. &lt;strong&gt;The Maginot Line: Attacking the Boundary of DNS Caching Protection.&lt;/strong&gt; In Proceedings of the 32nd USENIX Security Symposium (&lt;strong&gt;USENIX Security &amp;lsquo;23&lt;/strong&gt;). &lt;a href=&#34;&#34;&gt;PDF&lt;/a&gt; &lt;a href=&#34;&#34;&gt;Slides&lt;/a&gt; &lt;a href=&#34;&#34;&gt;Video&lt;/a&gt; &lt;a href=&#34;&#34;&gt;Code&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;(Acceptance rate: ??%, Acceptance rate in summer:  82/402=20.4%)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
