@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MaginotDNS</title>
-    <link>https://lixiang521.com/maginotdns.github.io/zh/</link>
-      <atom:link href="https://lixiang521.com/maginotdns.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://maginotdns.net/zh/</link>
+      <atom:link href="https://maginotdns.net/zh/index.xml" rel="self" type="application/rss+xml" />
     <description>MaginotDNS</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2022 NISL Lab, Tsinghua University. All Rights Reserved.</copyright>
     <image>
-      <url>https://lixiang521.com/maginotdns.github.io/media/icon_hu3a0063144fa60b702a61cc3db4cff908_183063_512x512_fill_lanczos_center_3.png</url>
+      <url>https://maginotdns.net/media/icon_hu3a0063144fa60b702a61cc3db4cff908_183063_512x512_fill_lanczos_center_3.png</url>
       <title>MaginotDNS</title>
-      <link>https://lixiang521.com/maginotdns.github.io/zh/</link>
+      <link>https://maginotdns.net/zh/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://lixiang521.com/maginotdns.github.io/zh/admin/config.yml</link>
+      <link>https://maginotdns.net/zh/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lixiang521.com/maginotdns.github.io/zh/admin/config.yml</guid>
+      <guid>https://maginotdns.net/zh/admin/config.yml</guid>
       <description></description>
     </item>
     

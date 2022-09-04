@@ -5,14 +5,14 @@
   "theme_color": "hsl(339, 90%, 68%)",
   "background_color": "hsl(339, 90%, 68%)",
   "icons": [{
-    "src": "/maginotdns.github.io/media/icon_hu3a0063144fa60b702a61cc3db4cff908_183063_192x192_fill_lanczos_center_3.png",
+    "src": "/media/icon_hu3a0063144fa60b702a61cc3db4cff908_183063_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/maginotdns.github.io/media/icon_hu3a0063144fa60b702a61cc3db4cff908_183063_512x512_fill_lanczos_center_3.png",
+    "src": "/media/icon_hu3a0063144fa60b702a61cc3db4cff908_183063_512x512_fill_lanczos_center_3.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
   "display": "standalone",
-  "start_url": "/maginotdns.github.io/zh/?utm_source=web_app_manifest"
+  "start_url": "/zh/?utm_source=web_app_manifest"
 }
