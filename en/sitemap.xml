@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://maginotdns.net/admin/</loc>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -15,8 +16,10 @@
                 />
   </url><url>
     <loc>https://maginotdns.net/zh/admin/</loc>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://maginotdns.net/categories/</loc>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -29,6 +32,7 @@
                 />
   </url><url>
     <loc>https://maginotdns.net/</loc>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -41,6 +45,7 @@
                 />
   </url><url>
     <loc>https://maginotdns.net/publication_types/</loc>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -53,6 +58,7 @@
                 />
   </url><url>
     <loc>https://maginotdns.net/tags/</loc>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -65,5 +71,6 @@
                 />
   </url><url>
     <loc>https://maginotdns.net/zh/</loc>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>

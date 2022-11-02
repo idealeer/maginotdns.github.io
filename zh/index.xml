@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MaginotDNS</title>
+    <title>马奇诺DNS</title>
     <link>https://maginotdns.net/zh/</link>
       <atom:link href="https://maginotdns.net/zh/index.xml" rel="self" type="application/rss+xml" />
-    <description>MaginotDNS</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2022 NISL Lab, Tsinghua University. All Rights Reserved.</copyright>
+    <description>马奇诺DNS</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
     <image>
       <url>https://maginotdns.net/media/icon_hub6445ea110a5a92a02c62452c0c35c5b_771351_512x512_fill_lanczos_center_3.png</url>
-      <title>MaginotDNS</title>
+      <title>马奇诺DNS</title>
       <link>https://maginotdns.net/zh/</link>
     </image>
     

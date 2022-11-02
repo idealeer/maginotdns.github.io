@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://maginotdns.net/zh/admin/</loc>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,6 +16,7 @@
                 />
   </url><url>
     <loc>https://maginotdns.net/zh/categories/</loc>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -26,19 +28,8 @@
                 href="https://maginotdns.net/zh/categories/"
                 />
   </url><url>
-    <loc>https://maginotdns.net/zh/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://maginotdns.net/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://maginotdns.net/zh/"
-                />
-  </url><url>
     <loc>https://maginotdns.net/zh/publication_types/</loc>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -51,6 +42,7 @@
                 />
   </url><url>
     <loc>https://maginotdns.net/zh/tags/</loc>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -60,6 +52,19 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://maginotdns.net/zh/tags/"
+                />
+  </url><url>
+    <loc>https://maginotdns.net/zh/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://maginotdns.net/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://maginotdns.net/zh/"
                 />
   </url>
 </urlset>
